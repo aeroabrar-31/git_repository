@@ -1,1 +1,2 @@
 "File2"
+"Adding some lines in \n file2.txt"
